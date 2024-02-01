@@ -2,7 +2,7 @@ CC BY-NC-ND 4.0 & Commons Clause License for "TIGER" DiffSinger Models
 
 Copyright (c) 2024 "JAE VOCAL PROJECT", "Mina Moonrise", "tigermeat"
 
-Contact: 
+Contact: JAE VOCAL PROJECT | meihuasmoothie@gmail.com
 
 Please view the license agreement [here](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)
 
