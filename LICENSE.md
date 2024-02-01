@@ -1,4 +1,4 @@
-CC BY-NC-ND 4.0 & Commons Clause License for "TIGER" DiffSinger Models
+CC BY-NC-ND 4.0 & Commons Clause License for "Canary" DiffSinger Models
 
 Copyright (c) 2024 "JAE VOCAL PROJECT", "Mina Moonrise", "tigermeat"
 
